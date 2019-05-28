@@ -32,3 +32,6 @@ Pelissä on Pause-nappula, jolla pelin voi tauottaa.
 Pelissä on Restart-nappula, jolla pelin voi aloittaa uudelleen.
 Pelin ohjeet (esimerkiksi madon liikuttamiseen) esitetään popup-ikkunassa tai jotenkin muuten pelin aikana.
 </pre>
+
+![snake](https://user-images.githubusercontent.com/32646472/58496796-3fa53000-8183-11e9-929d-1153928d486a.png)
+
